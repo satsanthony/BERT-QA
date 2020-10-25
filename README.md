@@ -1,0 +1,3 @@
+What is BERT?
+In 2017, google researchers developed a neural network model called the Transformers that was faster to train and easier to parallelize with a reduced cost in comparison with other models. Further refined this model to perform better in both the Left-Right and Right-Left directions and named it as Bi-directional encoder representations from Transformers.
+We will be using the BERT question and answer model in this blog. Basically, you provide a context such as paragraph from Wiki / sports sites and use the BERT model to ask a question and expect an intelligent answer. This works quite well as you will see.
